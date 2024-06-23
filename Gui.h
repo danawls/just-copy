@@ -5,8 +5,8 @@
 #include "fltk.h"
 #include "Window.h"
 #include "Graph.h"
-//#include<vector>
-//#include<string>
+#include<vector>
+#include<string>
 
 namespace Graph_lib {
 	
